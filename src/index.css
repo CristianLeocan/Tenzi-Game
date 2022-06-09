@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Spline+Sans+Mono:wght@300;400;500;600;700&display=swap');
+
+* {
+  font-family: 'Spline Sans Mono', monospace;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: rgb(50, 50, 77);  
+}
+
+main {
+  background-color: white;  
+  margin: 20px;
+  width: 800px;
+  height: 800px;
+  border-radius: 20px;   
+}
+
+.container {
+  height: 500px;
+  display: grid;
+  gap: 20px;
+  align-content: center;  
+  justify-content: center;
+  grid-template-columns: auto auto auto auto auto;
+  grid-template-rows: auto auto;  
+  background-color: aliceblue;
+  padding: 10px;    
+}
+
+.roll {  
+  width: 100px;
+  height: 50px;
+  margin-top: 25px;
+  margin-left: 28%;
+  margin-bottom: 5%;
+  background-color:rgb(72, 72, 151);
+  color: rgb(234, 229, 253);
+  cursor: pointer;
+  border-radius: 5px;   
+}
+
+.rollRecord {
+  display: flex;
+  align-items: center;
+  margin-left: 23%;  
+}
+
+.record {
+  background-color: rgb(120, 120, 144);
+  color: aliceblue;
+  border-radius: 20px;
+}

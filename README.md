@@ -1,0 +1,2 @@
+# Tenzi Game
+ TENZI is a fast, fun dice game that encourages fast reactions and is super easy to learn.  TENZI is fun because it’s fast. To play TENZI you must roll your 10 dice as fast as you can which makes the game instantly competitive and fun for the whole family. Playing TENZI helps kids develop rapid and confident number recognition while being extremely fun and simple to play. It's perfect for early finishers and team building activities.

@@ -1,0 +1,28 @@
+.section--timer {
+    height: 22px;
+    background-color: black;    
+  }
+  
+  .timer {
+    margin-top: 20px;
+    width: 100px;
+    height: 40px; 
+    background-color: antiquewhite;
+    border: 2px solid; 
+    font-size: 30px;
+    color:darkcyan;
+    border-radius: 5px;     
+  }
+
+  .startStop {
+    margin-left: 30%;
+    margin-top: 10px;         
+    width: 100px;
+    height: 40px;
+    border: 1px solid; 
+    font-size: 25px;
+    color:crimson;
+    border-radius: 5px; 
+    cursor:crosshair;
+    font-weight: bold;
+  }
